@@ -55,4 +55,6 @@
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
 
+	<h1>Fixed Header</h1>
+
 	<div id="content" class="site-content">
