@@ -74,6 +74,10 @@ if ( ! function_exists( 'sample_theme_setup' ) ) :
 			'flex-width'  => true,
 			'flex-height' => true,
 		) );
+
+			/**
+			 * Add support for 
+			 */
 	}
 endif;
 add_action( 'after_setup_theme', 'sample_theme_setup' );
