@@ -40,12 +40,7 @@ add_action( 'wp_head', 'sample_theme_pingback_header' );
 // /**
 //  * Loading Wp Block script
 //  */
-// function sample_theme_enqueue_block_editor_assets() {
-// 	wp_enqueue_script(
-// 		'block-editor-js',
-// 		get_template
-// 	)
-// }
+
 
 
 function sample_theme_enqueue_block_editor_assets() {
